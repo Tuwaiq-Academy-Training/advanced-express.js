@@ -1,6 +1,6 @@
 
 محتوى الملف:
-- ماهو jeson
+- ماهو json
 - الخصائصRequest
 - دوال Response
 - رموز حالات HTTP
