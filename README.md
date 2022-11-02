@@ -3,7 +3,6 @@
 - ماهو json
 - الخصائصRequest
 - دوال Response
-- رموز حالات HTTP
 
 
 ## ماهو jeson
